@@ -1,4 +1,4 @@
-# BoidsSelfAssembly: Evolving Agents to Generate and Falsify Hypotheses of Biological Self-Assembly
+# Evolving Agents for Biological Self-Assembly Analysis
 
 [![Data](https://img.shields.io/badge/Data-Available-blue)](https://youtu.be/kZpef3o-z0Y)
 
@@ -162,7 +162,3 @@ This initializes the simulation with initial positions from the video and uses i
 ## License
 
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
-## Contact
-
-For questions about the implementation or paper, please contact xxx (change after review process)

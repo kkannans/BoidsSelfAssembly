@@ -1,0 +1,16 @@
+BoidsEnv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyzwz
+*.csv
+extract_metrics/masks_cyto_None_bw_longer.npy
+extract_metrics/masks_cyto_None_bw_longer.mp4
+extract_metrics/all_distances_bw_longer.npy
+extract_metrics/bw_longer.mp4
+paper_figures/test_performance_random*

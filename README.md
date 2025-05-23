@@ -122,6 +122,8 @@ This initializes the simulation with initial positions from the video and uses i
 
 ### Example Evolved Hypotheses
 
+![Alt text](./evolved_boidh2vsIV.gif)
+
 **Hypothesis 2** (sparse clusters):
 - Parameters: wa=0.17, wc=0.03, ws=0.52, rv=26.78
 - [Video demonstration](https://youtu.be/uxuxgarkpY8)
@@ -136,7 +138,7 @@ This initializes the simulation with initial positions from the video and uses i
 ├── extract_metrics/          # Video processing and metric computation
 ├── paper_figures/           # Figure generation scripts
 ├── config.py               # Experiment configuration
-├── evolve.py              # Main evolution script
+├── evolve.py              # Main evolutionary optimization script
 ├── experiment1.py         # Hypothesis Space 1 (3D)
 ├── experiment4.py         # Hypothesis Space 2 (4D)
 ├── afpo.py               # Age-Fitness Pareto Optimization
@@ -147,20 +149,6 @@ This initializes the simulation with initial positions from the video and uses i
 ├── loss_functions.py     # Testing loss functions
 ├── regressions.py        # Baseline regression models
 └── utils.py              # Utility functions
-```
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{boids_self_assembly_2024,
-  title={Evolving agents to generate and falsify hypotheses of biological self-assembly},
-  author={[Authors]},
-  journal={[Journal]},
-  year={2024},
-  url={https://github.com/PapersAnonCode/BoidsSelfAssembly}
-}
 ```
 
 ## Requirements

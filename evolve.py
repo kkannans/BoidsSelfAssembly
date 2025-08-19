@@ -63,7 +63,7 @@ def parse_arguments():
                       help='Experiment number 1,2,3 (default: 1)')
     # algorithm
     parser.add_argument('-a', '--algorithm', type=str, default="afpo",
-                      help='Algorithm to use: afpo (default: afpo)')
+                      help='Algorithm to use: afpo, afpo_elite (default: afpo)')
     # generations
     parser.add_argument('-g', '--generations', type=int, default=config.GENERATIONS,
                       help='Number of generations to run (default: from config)')

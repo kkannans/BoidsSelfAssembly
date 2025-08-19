@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "BoidsSelfAssembly"
+authors:
+  - family-names: "Kannan Srinivasan"
+    given-names: "Krishna"
+  - family-names: "Le"
+    given-names: "Nam"
+  - family-names: "Bongard"
+    given-names: "Joshua"
+  - family-names: "Blackiston"
+    given-names: "Douglas"
+repository-code: "https://github.com/kkannans/BoidsSelfAssembly"
+license: "MIT"
+keywords:
+  - "self-assembly"
+  - "boids"
+  - "agent-based modeling"
+  - "evolutionary algorithms"
+contact:
+  - name: "Krishna Kannan Srinivasan"
+    email: "kkannans@uvm.edu"
+
